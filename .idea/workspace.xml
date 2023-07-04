@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ba3c69a-0e46-488e-bb4b-857f56625e8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/change-commit-name/commit-me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get-code-review/commit-me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get-code-review/revert-me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squash-commits/squash-me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +72,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
